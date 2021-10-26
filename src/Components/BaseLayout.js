@@ -10,7 +10,7 @@ export default class BaseLayout extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/sabri.png)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Sabri LACHIHAB</a></h1>
-              <h1 id="colorlib-logo"><a href="index.html">23 years old</a></h1>
+              <h1 id="colorlib-logo"><a href="index.html">25 years old</a></h1>
               <span className="email"><i className="icon-mail"></i> sabrilachihab@gmail.com</span>
               <p></p>
               <span className="email"><i className="icon-phone"></i> +33 6 66 87 21 44</span>

@@ -15,6 +15,17 @@ export default class Projects extends Component {
           <div className="row">
             <div className="col-md-12">
               <div className="timeline-centered">
+              <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                <div className="timeline-entry-inner">
+                  <div className="timeline-icon color-1">
+                    <i className="icon-pen2" />
+                  </div>
+                  <div className="timeline-label">
+                    <h2>RTE Projet<span> October 2019 - Actually</span></h2>
+                    <p>An web application for rte users</p>
+                  </div>
+                </div>
+              </article>
                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                   <div className="timeline-entry-inner">
                     <div className="timeline-icon color-3">
@@ -28,7 +39,7 @@ export default class Projects extends Component {
                 </article>
                 <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                   <div className="timeline-entry-inner">
-                    <div className="timeline-icon color-4">
+                    <div className="timeline-icon color-2">
                       <i className="icon-pen2" />
                     </div>
                     <div className="timeline-label">

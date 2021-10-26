@@ -15,26 +15,35 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <div className="timeline-entry-inner">
+                    <div className="timeline-icon color-1">
+                      <i className="fa fa-building" />
+                    </div>
+                    <div className="timeline-label">
+                      <h2>Engeering in Sopra Steria <span>Sept 2019 - Actually</span></h2>
+                      <p>I recently have joined Sopra Steria as an IT consultant in the Energy entity.</p>
+                    </div>
+                  </div>
+                </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="fa fa-building" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at IBM France <span>Feb 2019-July 2019</span></h2>
-                        <p>I recently have joined IBM France as an architectural consultant in the CSI entity. My main mission is to integrate IBM Watson solutions into customer processes through the IBM BPM.</p>
+                        <h2>Internship at IBM France <span>Feb 2019 - July 2019</span></h2>
+                        <p>I joined IBM France as an architectural consultant in the CSI entity for my intership. My main mission is to integrate IBM Watson solutions into customer processes through the IBM BPM.</p>
                       </div>
                     </div>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-4">
+                      <div className="timeline-icon color-2">
                         <i className="fa fa-building" />
                       </div>
                       <div className="timeline-label">
-                        <div style={{flexDirection:'row'}}>
                         <h2>Internship at Alobees <span>April 2018 - August 2018</span></h2>
-                        </div>
                         <p>
 I joined Alobees as a Junior Full Stack developer where I mainly implemented the new features of the Alobees mobile application coded in React Native. I also did the bug management on the front React application and on the back.</p>
                       </div>
@@ -48,7 +57,7 @@ I joined Alobees as a Junior Full Stack developer where I mainly implemented the
                       <div className="timeline-label">
                         <h2>ESILV - Paris LA DEFENSE <span>Sept 2016 - August 2019</span></h2>
                         <p>
-I joined the engineering school Léonard de Vinci which is located in Paris la Defense. I did the Computer Science, Big Data and Connected Objects major.</p>
+I joined the engineering school Leonard de Vinci which is located in Paris la Defense. I did the Computer Science, Big Data and Connected Objects major.</p>
                       </div>
                     </div>
                   </article>

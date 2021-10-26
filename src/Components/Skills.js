@@ -27,13 +27,13 @@ export default class Skills extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+                        <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
                             <div className="progress-wrap">
-                                <h3>JavaScript</h3>
+                                <h3>React Native / ReactJs / Javascript</h3>
                                 <div className="progress">
-                                    <div className="progress-bar color-10" role="progressbar" aria-valuenow="80"
-                                    aria-valuemin="0" aria-valuemax="100" style={{width:"80%"}}>
-                                    <span>80%</span>
+                                    <div className="progress-bar color-9" role="progressbar" aria-valuenow="90"
+                                         aria-valuemin="0" aria-valuemax="100" style={{width:"90%"}}>
+                                        <span>90%</span>
                                     </div>
                                 </div>
                             </div>
@@ -60,20 +60,9 @@ export default class Skills extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-                            <div className="progress-wrap">
-                                <h3>HTML & CSS</h3>
-                                <div className="progress">
-                                    <div className="progress-bar color-4" role="progressbar" aria-valuenow="60"
-                                    aria-valuemin="0" aria-valuemax="100" style={{width:"60%"}}>
-                                    <span>60%</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                         <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
                             <div className="progress-wrap">
-                                <h3>C# language programming environment</h3>
+                                <h3>C#</h3>
                                 <div className="progress">
                                     <div className="progress-bar color-5" role="progressbar" aria-valuenow="60"
                                     aria-valuemin="0" aria-valuemax="100" style={{width:"60%"}}>
@@ -84,7 +73,7 @@ export default class Skills extends Component {
                         </div>
                         <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
                             <div className="progress-wrap">
-                                <h3>C language programming environment</h3>
+                                <h3>C</h3>
                                 <div className="progress">
                                     <div className="progress-bar color-6" role="progressbar" aria-valuenow="50"
                                     aria-valuemin="0" aria-valuemax="100" style={{width:"50%"}}>
