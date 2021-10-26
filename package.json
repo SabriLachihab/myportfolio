@@ -1,7 +1,7 @@
 {
   "name": "myportfolio",
   "version": "0.1.0",
-  "homepage": "http://sabrilachihab.github.io/myportfolio",
+  "homepage": "http://sabrilachihab.github.io/portfolio",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
